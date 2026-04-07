@@ -1,0 +1,321 @@
+order_id,order_date,shipment_date,customer_name,customer_email,product_category,product_name,quantity,unit_price,order_status,payment_method,delivery_city
+ORD-2025-0001,2025-11-03,2025-11-04,Amr Adel,amr.adel@gmail.com,Home Decor,Decorative Vase,01,40.26,Delivered,Credit Card,Beni Suef
+ORD-2025-0002,2025-11-22,28/11/2025,Omar Taha,omar.taha@yahoo.com,Office,Ergonomic Mouse Pad,1,9.01,Shipped,Cash on Delivery,Mansoura
+ORD-2025-0003,02/02/2025,03-Feb-2025,Salma Adel,, Kitchen ,Meal Prep Containers,5,40.92,Delivered,Cash on Delivery,Zagazig
+ORD-2025-0004,06-Nov-2025,15-Nov-2025,Youssef Ibrahim,youssef.ibrahim@proton.me,Home Decor,Decorative Vase, 1 ,45.61,Returned,Credit Card,Giza
+ORD-2025-0005,07/11/2025,2025-11-08,Nour Shawky,nour.shawky@gmail.com,Home Decor,LED Table Lamp, 3 ,51.55,Delivered,Credit Card,Mansoura
+ORD-2025-0006,07/03/2025,,Heba Said,heba.said@proton.me,Kitchen,Nonstick Pan, 5 ,52.53,Delivered,Cash on Delivery,Giza
+ORD-2025-0007,2025-12-15,2025-12-17,Lina Fathy,lina.fathy@gmail.com,storage,Drawer Divider Kit,3,21.61,Shipped, card ,Giza
+ORD-2025-0008,06/01/2025,"Jan 11, 2025",Nada Aziz,,Kitchen,Meal Prep Containers,6,43.59,Returned,Credit Card,Port Said
+ORD-2025-0009,23/10/2025,2025-11-02,Nadia Mahmoud,nadia.mahmoud@gmail.com,Home Decor,Decorative Vase,5,40.44,DELIVERED,CREDIT CARD, Zagazig 
+ORD-2025-0010,17-Aug-2025,,Youssef Yassin,youssef.yassin@outlook.com,Kitchen,Cutlery Set,6,54.38,Processing,Cash on Delivery,Minya
+ORD-2025-0011,11/27/2025,"Nov 30, 2025",Nour Gamal  ,nour.gamal@outlook.com,home decor,Decorative Vase,4,40.24,Returned,Cash on Delivery,Giza
+ORD-2025-0012,"Aug 04, 2025","Aug 10, 2025",Fares Kamal,fares.kamal@outlook.com,Cleaning,Trash Bin Liner Roll,2,11.54,Delivered,Credit Card,Port Said
+ORD-2025-0013,05/03/2025,,Nour Shawky,nour.shawky@gmail.com,Office,Ergonomic Mouse Pad,3,8.84,Processing,Credit Card,Assiut
+ORD-2025-0014,"Jun 07, 2025",14-Jun-2025,Hana Mahmoud,,Kitchen,Cutlery Set,2,32.47,Delivered,Cash on Delivery,Minya
+ORD-2025-0015,"Dec 15, 2025",,Dina Shawky,dina.shawky@outlook.com, Kitchen ,Glass Storage Jar,4,20.23,Delivered,PayPal,Port Said
+ORD-2025-0016,"Dec 12, 2025",21/12/2025,Samir Nasser,samir.nasser@proton.me,Storage,Plastic Storage Box,4,24.93,Delivered,Cash on Delivery, Beni Suef 
+ORD-2025-0017,20-Jul-2025,2025-07-24,Khaled Fouad,, Office ,Notebook Pack, 3 ,16.31,Shipped,Bank Transfer,Ismailia
+ORD-2025-0018,30-Mar-2025,,Nada Nasser,nada.nasser@proton.me,Storage,Drawer Divider Kit,5,8.46,Processing,Credit Card,Ismailia
+ORD-2025-0019,2025-12-03,2025-12-04, Amina Darwish ,amina.darwish@outlook.com,Home Decor,Throw Pillow Cover,1,25.53,Delivered,Credit Card,Mansoura
+ORD-2025-0020,"Feb 26, 2025",03/03/2025, Heba Mostafa ,heba.mostafa@outlook.com,Storage,Vacuum Storage Bag, 5 ,27.22,Shipped,Credit Card,Zagazig
+ORD-2025-0021,2025-02-18,02/26/2025,Ali Gamal,ali.gamal@outlook.com,Office,File Folder Set,6,$12.68, Delivered ,Credit Card,Cairo
+ORD-2025-0022,09-May-2025,19-May-2025,Nour Aziz  ,nour.aziz@proton.me,Kitchen,Meal Prep Containers,4,44.89,Delivered,Credit Card,Aswan
+ORD-2025-0023,2025-10-05,2025-10-06,Hassan Said,,Office,Desk Organizer,2,29.14,Delivered,PayPal,Port Said
+ORD-2025-0024,"Sep 29, 2025",07-Oct-2025, Sara Nasser ,sara.nasser@outlook.com,Cleaning,Dish Brush Set,3,10.82,Delivered,cash on delivery,Cairo
+ORD-2025-0025,"Aug 10, 2025",08/14/2025,Walid Nasser,walid.nasser@outlook.com,Storage,Plastic Storage Box,1,10.55,Delivered,PayPal, Port Said 
+ORD-2025-0026,"May 27, 2025","Jun 06, 2025",Walid Adel,walid.adel@proton.me,Kitchen,Glass Storage Jar,1,17.4,Delivered, cod , Ismailia 
+ORD-2025-0027,2025-01-31,02/09/2025,Hana Hassan,hana.hassan@proton.me,Cleaning,Trash Bin Liner Roll, 6 ,15.24,Delivered,CC,
+ORD-2025-0028,12-Apr-2025,,Hana Aziz,hana.aziz@proton.me,Office,Ergonomic Mouse Pad,1,14.08,Cancelled,PayPal,
+ORD-2025-0029,"Jan 27, 2025","Feb 04, 2025",Reem Mostafa,reem.mostafa@proton.me,Storage,Vacuum Storage Bag,6,31.58,DELIVERED,Cash on Delivery,Suez
+ORD-2025-0030,09/10/2025,10/11/2025,Reem Darwish,reem.darwish@proton.me,Storage,Plastic Storage Box,2,28.42,Delivered,bank transfer,Ismailia
+ORD-2025-0031,03/05/2025,01-May-2025,Fares Mansour,fares.mansour@outlook.com,Kitchen,Glass Storage Jar,6,18.93,DELIVERED,PayPal, Giza 
+ORD-2025-0032,02-May-2025,05/08/2025,Amina Hassan,amina.hassan@yahoo.com,Storage,Closet Hanger Pack,5,9.51,Shipped,Cash on Delivery,Port Said
+ORD-2025-0033,2025-06-05,,Rana Shawky,rana.shawky@proton.me,Cleaning,Dish Brush Set,1,5.69,Processing,Cash on Delivery,Mansoura
+ORD-2025-0034,2025-11-18,, Nour Yassin ,nour.yassin@gmail.com,Office,File Folder Set, 2 ,16.71,Processing,credit card,Minya
+ORD-2025-0035,2025-12-06,14/12/2025,Tariq Darwish,tariq.darwish@proton.me,Storage,Vacuum Storage Bag,1,25.19,Delivered,COD,Mansoura
+ORD-2025-0036,01/11/2025,05-Nov-2025,Reem Nasser,reem.nasser@outlook.com,Home Decor,Decorative Vase, 5 ,15.13,Delivered,PayPal, Damietta 
+ORD-2025-0037,2025-08-24,2025-09-03,Amr Mahmoud,amr.mahmoud@gmail.com,Storage,Plastic Storage Box, 6 ,22.56, Delivered ,Cash on Delivery,Suez
+ORD-2025-0038,2025-12-06,12/15/2025,Salma Shawky,salma.shawky@gmail.com,Cleaning,Dish Brush Set,2,8.97,Shipped,Credit Card,Damietta
+ORD-2025-0039,31/01/2025,10-Feb-2025,Walid Fathy,walid.fathy@proton.me,Home Decor,LED Table Lamp, 5 ,75.67,Returned,Credit Card, Alexandria 
+ORD-2025-0040,2025-04-07,,Nadia Adel,nadia.adel@gmail.com,office,Desk Organizer,2,32.23,Processing,PAYPAL, Cairo 
+ORD-2025-0041,30/06/2025,05/07/2025,Ali Gamal,ali.gamal@gmail.com,home decor,LED Table Lamp,1,49.85,delivered,Bank Transfer, Assiut 
+ORD-2025-0042,2025-11-28,,Amina Taha,amina.taha@proton.me,Home Decor,Throw Pillow Cover,5,21.5,Delivered,Credit Card,Beni Suef
+ORD-2025-0043,05/04/2025,,Mariam Fathy,mariam.fathy@gmail.com,Office,Notebook Pack,5,20.44,Cancelled,COD,Luxor
+ORD-2025-0044,"Aug 23, 2025",,Nour Mahmoud,nour.mahmoud@gmail.com,Office,Desk Organizer, 5 ,$24.27,Cancelled,Cash on Delivery,Cairo
+ORD-2025-0045,07-Feb-2025,"Feb 16, 2025",Dina Mansour,dina.mansour@yahoo.com,Office,Ergonomic Mouse Pad, 6 ,29.22,delivered, cod ,Assiut
+ORD-2025-0046,2025-06-28,,Nour Gamal  ,nour.gamal@outlook.com,Cleaning,Microfiber Cloth Pack,2,7.01,Cancelled,Cash on Delivery,Port Said
+ORD-2025-0047,14/04/2025,"Apr 24, 2025",Amr Taha,amr.taha@proton.me,Storage,Closet Hanger Pack, 4 ,13.04,Delivered,BANK TRANSFER,Ismailia
+ORD-2025-0048,"Jul 02, 2025",,Rana Kamal,rana.kamal@proton.me,Office,File Folder Set,3,10.54,Cancelled,Cash on Delivery,
+ORD-2025-0049,01-Jun-2025,2025-06-03,Hassan Kamal,hassan.kamal@gmail.com,Home Decor,LED Table Lamp,5,71.14,Delivered,PayPal,Giza
+ORD-2025-0050,"Jul 23, 2025",27-Jul-2025,Sara Shawky,sara.shawky@gmail.com,Home Decor,LED Table Lamp,1,62.14,Processing,PayPal,Giza
+ORD-2025-0051,"Jan 26, 2025",31/01/2025, Heba Taha ,heba.taha@outlook.com,Kitchen,Glass Storage Jar,4,13.07,Delivered,Cash on Delivery,Port Said
+ORD-2025-0052,"Feb 26, 2025",03-Mar-2025,Sara Gamal,sara.gamal@yahoo.com,Home Decor,Throw Pillow Cover,2,27.24,Delivered,Cash on Delivery,Zagazig
+ORD-2025-0053,09-Jul-2025,2025-07-19, Fares Taha ,fares.taha@yahoo.com,home decor,Wall Frame Set,3,47.9,Delivered,Credit Card,Port Said
+ORD-2025-0054,2025-02-18,,Lina Kamal,lina.kamal@proton.me,Storage,Drawer Divider Kit,6,13.91,PROCESSING,Cash on Delivery,Giza
+ORD-2025-0055,10/01/2025,, Fares Mahmoud ,fares.mahmoud@proton.me,Cleaning,Spray Mop,06,26.67,delivered,Wire,Suez
+ORD-2025-0056,10/03/2025,20/03/2025,Rana Said,rana.said@yahoo.com,KITCHEN,Cutlery Set, 6 ,30.96,Shipped,PayPal,Assiut
+ORD-2025-0057,2025-06-06,06/07/2025,Nada Darwish,nada.darwish@proton.me,Cleaning,Microfiber Cloth Pack,2,9.42,Delivered,Bank Transfer,Alexandria
+ORD-2025-0058,2025-03-27,"Apr 05, 2025",Mariam Ibrahim,mariam.ibrahim@outlook.com,Cleaning,Trash Bin Liner Roll,1,8.53,Delivered,Credit Card,Ismailia
+ORD-2025-0059,10/15/2025,22/10/2025, Omar Mansour ,omar.mansour@yahoo.com,Storage,Closet Hanger Pack,5,$15.53,Delivered,BANK TRANSFER,Giza
+ORD-2025-0060,04/11/2025,13/11/2025,Reem Fouad,reem.fouad@yahoo.com,Kitchen,Nonstick Pan,4,126.97, Delivered ,PayPal,Zagazig
+ORD-2025-0061,12/04/2025,"Apr 18, 2025", Youssef Nasser ,youssef.nasser@gmail.com,Cleaning,Trash Bin Liner Roll,4,15.53,Delivered,bank transfer,Assiut
+ORD-2025-0062,01-Jun-2025,09-Jun-2025,Hassan Nasser,hassan.nasser@yahoo.com,Office,File Folder Set,5,21.01, Shipped ,COD,Port Said
+ORD-2025-0063,2025-11-27,"Nov 29, 2025",Youssef Fathy,youssef.fathy@outlook.com,Office,Ergonomic Mouse Pad,6,24.96,Delivered,Credit Card,Cairo
+ORD-2025-0064,10-Apr-2025,,Hana Ibrahim  ,hana.ibrahim@proton.me,HOME DECOR,Wall Frame Set,1,20.7, Cancelled ,Cash Delivery,
+ORD-2025-0065,09-Apr-2025,17-Apr-2025,Fares Mansour,fares.mansour@gmail.com,Kitchen,Nonstick Pan, 1 ,57.6,RETURNED,Credit Card,Mansoura
+ORD-2025-0066,24/03/2025,,Nour Said,nour.said@proton.me,Office,Desk Organizer,4,32.72,Delivered,Bank Transfer,Port Said
+ORD-2025-0067,2025-02-02,"Feb 11, 2025",Lina Mostafa,lina.mostafa@proton.me,Cleaning,Trash Bin Liner Roll,04,18.44,Delivered,Bank Transfer,Tanta
+ORD-2025-0068,07/16/2025,07/25/2025,Nour Gamal,nour.gamal@proton.me,Kitchen,Nonstick Pan,2,149.11,Delivered,Credit Card,Ismailia
+ORD-2025-0069,20-Apr-2025,2025-04-30,Walid Gamal,walid.gamal@outlook.com,Home Decor,Decorative Vase,1,26.01,delivered,Bank Transfer,Cairo
+ORD-2025-0070,2025-11-21,"Nov 30, 2025",Hana Said,hana.said@outlook.com,Cleaning,Spray Mop,3,81.32,Shipped,BANK TRANSFER,Minya
+ORD-2025-0071,02/21/2025,2025-02-25,Mariam Adel,mariam.adel@yahoo.com,kitchen,Meal Prep Containers,5,13.31,Delivered,Cash on Delivery,Giza
+ORD-2025-0072,"Aug 31, 2025",08-Sep-2025,Ali Darwish,ali.darwish@proton.me,office,File Folder Set,4,7.69, Delivered ,credit card,Damietta
+ORD-2025-0073,13/12/2025,"Dec 14, 2025",Nadia Darwish,nadia.darwish@gmail.com, Kitchen ,Meal Prep Containers,1,35.34,Delivered,PayPal,Cairo
+ORD-2025-0074,"Feb 28, 2025",,Amina Shawky,amina.shawky@outlook.com, Cleaning ,Dish Brush Set,5,10.32, Cancelled ,paypal,
+ORD-2025-0075,10/21/2025,23/10/2025, Heba Ibrahim ,heba.ibrahim@yahoo.com,Home Decor,Decorative Vase,2, 24.51 ,Returned,Credit Card,Damietta
+ORD-2025-0076,20-Jul-2025,,Dina Ibrahim,dina.ibrahim@yahoo.com,Storage,Plastic Storage Box,6,$11.04, Processing ,CC,Beni Suef
+ORD-2025-0077,"May 11, 2025",13-May-2025,Hana Ibrahim,hana.ibrahim@yahoo.com,Cleaning,Trash Bin Liner Roll,6,20.33,Shipped,Credit Card,Alexandria
+ORD-2025-0078,07/21/2025,"Jul 28, 2025", Tariq Darwish ,tariq.darwish@yahoo.com,Home Decor,Decorative Vase,5,55.73, Delivered ,CREDIT CARD,Mansoura
+ORD-2025-0079,22/06/2025,29/06/2025, Youssef Said ,, Storage ,Plastic Storage Box,6,14.22,Delivered,Credit Card,Zagazig
+ORD-2025-0080,02-Aug-2025,05-Aug-2025,Amr Taha,amr.taha@gmail.com,Cleaning,Microfiber Cloth Pack,6,7.00, Shipped ,PayPal,Ismailia
+ORD-2025-0081,06/23/2025,06/21/2025,Mariam Yassin,mariam.yassin@proton.me,Home Decor,Decorative Vase,5,48.61,Returned,CC,Aswan
+ORD-2025-0082,2025-06-17,, Tariq Aziz ,tariq.aziz@proton.me,Cleaning,Trash Bin Liner Roll,1,18.51,Delivered,PayPal,Alexandria
+ORD-2025-0083,27/10/2025,11/05/2025,Salma El-Sayed,salma.elsayed@gmail.com,Cleaning,Trash Bin Liner Roll,1,11.46,Delivered, card ,Damietta
+ORD-2025-0084,"Oct 26, 2025","Oct 29, 2025",Lina Ibrahim,lina.ibrahim@outlook.com,Kitchen,Cutlery Set,6,80.5,Delivered, card ,Alexandria
+ORD-2025-0085,2025-05-25,05/30/2025,Nadia Mahmoud,nadia.mahmoud@gmail.com,Storage,Vacuum Storage Bag,4,22.09,DELIVERED,PayPal,Giza
+ORD-2025-0086,03/30/2025,04/03/2025,Mariam Mostafa,mariam.mostafa@proton.me,Storage,Plastic Storage Box,5,18.12,SHIPPED,CC,Tanta
+ORD-2025-0087,16-Jul-2025,"Jul 18, 2025",Walid Mansour,walid.mansour@proton.me,Office,Notebook Pack,3,14.64,Delivered,Bank Transfer,Suez
+ORD-2025-0088,2025-01-13,, Reem Hassan ,reem.hassan@proton.me,Kitchen,Meal Prep Containers,4,18.68,Delivered,Credit Card,Beni Suef
+ORD-2025-0089,11/04/2025,06-Nov-2025,Nour Mahmoud  ,nour.mahmoud@outlook.com,Kitchen,Meal Prep Containers, 1 ,44.61,CANCELLED,Credit Card, Ismailia 
+ORD-2025-0090,2025-08-03,08/11/2025,Fares Ibrahim,fares.ibrahim@outlook.com,Cleaning,Microfiber Cloth Pack,1,6.82,Shipped,cash on delivery,Giza
+ORD-2025-0091,2025-09-15,"Sep 19, 2025",Amr Mansour,amr.mansour@outlook.com,Cleaning,Spray Mop,1, 84.17 ,Delivered,Cash on Delivery,Luxor
+ORD-2025-0092,27/05/2025,29/05/2025,Nour Shawky,nour.shawky@outlook.com,Cleaning,Dish Brush Set,2,10.44,Delivered,PayPal,Ismailia
+ORD-2025-0093,2025-03-31,2025-04-05,Amina Kamal,amina.kamal@yahoo.com,Kitchen,Glass Storage Jar,4,13.44,Delivered,PP,Giza
+ORD-2025-0094,06/12/2025,12/12/2025,Salma Kamal,,Storage,Closet Hanger Pack,3,17.56,Delivered,Cash Delivery,Assiut
+ORD-2025-0095,10/11/2025,2025-10-09,Ali Yassin,ali.yassin@outlook.com,Office,Notebook Pack,2,16.29,Processing, cod ,Minya
+ORD-2025-0096,2025-11-27,"Nov 28, 2025",Heba Yassin,heba.yassin@outlook.com,Cleaning,Trash Bin Liner Roll,2,11.03,Processing,Credit Card,Tanta
+ORD-2025-0097,2025-06-09,,Hassan Taha,hassan.taha@outlook.com,CLEANING,Dish Brush Set, 3 ,5.78,Processing,credit card,Beni Suef
+ORD-2025-0098,"Oct 30, 2025",2025-11-01,Youssef Mostafa,youssef.mostafa@gmail.com,Home Decor,Wall Frame Set, 2 ,87.69,SHIPPED,Credit Card,Suez
+ORD-2025-0099,02-Dec-2025,09/12/2025,Khaled Taha  ,khaled.taha@outlook.com,Kitchen,Cutlery Set,04,28.92,Delivered,Credit Card,
+ORD-2025-0100,03-Feb-2025,, Reem Nasser ,reem.nasser@yahoo.com,kitchen,Glass Storage Jar,5,27.99,Processing,Bank Transfer,Alexandria
+ORD-2025-0101,09/10/2025,2025-10-17,Mona Kamal,mona.kamal@proton.me,home decor,LED Table Lamp, 2 ,31.79,Delivered,CREDIT CARD,Suez
+ORD-2025-0102,28/11/2025,12/04/2025,Reem Said,reem.said@proton.me,Storage,Plastic Storage Box,5,$27.03,Returned,Bank Transfer,Luxor
+ORD-2025-0103,"Sep 16, 2025",09/18/2025,Fares Fouad,fares.fouad@gmail.com,Home Decor,Wall Frame Set,6,86.40,Delivered,Bank Transfer,Giza
+ORD-2025-0104,03/29/2025,,Salma Yassin,salma.yassin@outlook.com,Storage,Vacuum Storage Bag, 1 ,11.63,Delivered,PayPal, Alexandria 
+ORD-2025-0105,"Dec 09, 2025",,Hassan Gamal,hassan.gamal@yahoo.com,Office,Notebook Pack,4,8.92, Delivered ,credit card,Zagazig
+ORD-2025-0106,18/08/2025,22-Aug-2025,Nadia Yassin,nadia.yassin@yahoo.com,Cleaning,Trash Bin Liner Roll,6,18.35,Delivered,Credit Card, Giza 
+ORD-2025-0107,10/03/2025,"Mar 12, 2025",Lina Taha,lina.taha@outlook.com,Home Decor,Wall Frame Set,2,82.56,Delivered,Wire,Tanta
+ORD-2025-0108,20-May-2025,28/05/2025,Lina Fathy,lina.fathy@proton.me,Cleaning,Microfiber Cloth Pack,3,10.24,Delivered,Credit Card,Assiut
+ORD-2025-0109,2025-08-06,08/08/2025,Youssef Said,youssef.said@yahoo.com,Home Decor,Wall Frame Set, 4 ,75.57,Shipped,Credit Card,Port Said
+ORD-2025-0110,2025-05-25,02/06/2025, Omar Taha ,omar.taha@outlook.com,Home Decor,Wall Frame Set,6, 22.29 ,Delivered,Cash on Delivery,Zagazig
+ORD-2025-0111,09-Jan-2025,07/01/2025,Walid Mostafa,,Kitchen,Nonstick Pan,3,114.09,Delivered,CREDIT CARD,Beni Suef
+ORD-2025-0112,06/12/2025,12/11/2025,Sara Fouad,sara.fouad@yahoo.com,Home Decor,Throw Pillow Cover,2,32.49,Shipped,credit card,Port Said
+ORD-2025-0113,04/06/2025,07-Jun-2025,Walid Yassin,walid.yassin@outlook.com,Cleaning,Trash Bin Liner Roll,2,23.1,DELIVERED,Credit Card,Luxor
+ORD-2025-0114,"Mar 16, 2025","Mar 22, 2025",Walid Mansour,walid.mansour@outlook.com,Kitchen,Glass Storage Jar,4,10.86,Returned,PayPal,Damietta
+ORD-2025-0115,17-Apr-2025,,Salma Gamal,,storage,Vacuum Storage Bag,5,14.19,PROCESSING,CC,Minya
+ORD-2025-0116,2025-04-29,05/02/2025,Hassan Ibrahim,hassan.ibrahim@outlook.com,Storage,Closet Hanger Pack,5, 13.06 ,Shipped,Credit Card,Giza
+ORD-2025-0117,11/19/2025,"Nov 22, 2025",Hassan El-Sayed,hassan.elsayed@yahoo.com,Storage,Drawer Divider Kit,1,16.7,Shipped,PayPal,Assiut
+ORD-2025-0118,05/16/2025,24-May-2025,Lina Aziz,lina.aziz@gmail.com,Home Decor,Decorative Vase,1,$19.49,Shipped,Credit Card,Alexandria
+ORD-2025-0119,08/26/2025,"Sep 02, 2025",Amr Mahmoud,amr.mahmoud@proton.me,Storage,Closet Hanger Pack,2,7.58,Delivered,Cash Delivery,Beni Suef
+ORD-2025-0120,12/13/2025,,Sara Adel  ,sara.adel@outlook.com,Storage,Plastic Storage Box,5,$11.48,Processing,Bank Transfer,Minya
+ORD-2025-0121,2025-10-13,10/20/2025,Nada Fouad,nada.fouad@outlook.com, Kitchen ,Glass Storage Jar,4,$24.03,Shipped,Credit Card,Suez
+ORD-2025-0122,08/25/2025,04/09/2025,Nour Taha,nour.taha@outlook.com,Cleaning,Spray Mop,6,50.51,DELIVERED,Credit Card,Giza
+ORD-2025-0123,12/04/2025,"Apr 14, 2025",Khaled Mostafa,khaled.mostafa@proton.me, Storage ,Plastic Storage Box,06,30.77,Shipped,PayPal,Assiut
+ORD-2025-0124,08/07/2025,,Lina Mansour,,Kitchen,Nonstick Pan,3,146.31,RETURNED,Cash on Delivery,Suez
+ORD-2025-0125,2025-10-05,2025-10-12,Heba Fathy,heba.fathy@proton.me,cleaning,Dish Brush Set,2,4.64,Delivered,Bank Transfer,Cairo
+ORD-2025-0126,"Jul 19, 2025",,Mariam Shawky,mariam.shawky@gmail.com,Kitchen,Meal Prep Containers,2,32.48,Delivered,Credit Card,Port Said
+ORD-2025-0127,"Jan 07, 2025",2025-01-10,Salma Hassan,salma.hassan@yahoo.com,Kitchen,Glass Storage Jar,1,23.47,Delivered,PayPal,Minya
+ORD-2025-0128,19-Oct-2025,16-Oct-2025,Reem Yassin,reem.yassin@proton.me,Kitchen,Cutlery Set,4,35.62,Processing,Cash on Delivery,Minya
+ORD-2025-0129,2025-11-21,"Nov 25, 2025", Reem Shawky ,reem.shawky@gmail.com,Office,Notebook Pack,6,22.69,Delivered,Cash on Delivery, Beni Suef 
+ORD-2025-0130,12/15/2025,,Hana Mansour,hana.mansour@proton.me,Kitchen,Cutlery Set,1,65.56,Delivered,Credit Card,Giza
+ORD-2025-0131,10/01/2025,"Jan 07, 2025",Nour Kamal,nour.kamal@yahoo.com,Cleaning,Dish Brush Set,5,10.57,Delivered, cod ,Giza
+ORD-2025-0132,2025-02-24,"Mar 06, 2025", Nour Darwish ,nour.darwish@yahoo.com,Cleaning,Trash Bin Liner Roll,6,18.14,delivered,Credit Card,Giza
+ORD-2025-0133,07/07/2025,,Tariq Kamal,tariq.kamal@proton.me,Storage,Closet Hanger Pack,6,14.49,Processing,Cash on Delivery,Damietta
+ORD-2025-0134,03/14/2025,2025-03-23,Nour Kamal,nour.kamal@yahoo.com,Cleaning,Trash Bin Liner Roll,6,11.06,Delivered,bank transfer,Port Said
+ORD-2025-0135,28-Jan-2025,2025-02-03,Walid Mostafa,walid.mostafa@proton.me,Kitchen,Glass Storage Jar,3,24.7,Delivered,CC,Tanta
+ORD-2025-0136,2025-04-10,2025-04-20,Ali Ibrahim,ali.ibrahim@outlook.com,Cleaning,Spray Mop,3,67.38,Delivered,PayPal,Suez
+ORD-2025-0137,2025-09-08,15/09/2025,Amr Said,amr.said@proton.me,STORAGE,Plastic Storage Box,2,25.2,Delivered, PayPal ,Aswan
+ORD-2025-0138,2025-12-03,10-Dec-2025,Sara Aziz,sara.aziz@gmail.com,Cleaning,Microfiber Cloth Pack,4,7.98,Delivered,Credit Card,Port Said
+ORD-2025-0139,06-Dec-2025,"Dec 12, 2025",Heba El-Sayed,,Kitchen,Glass Storage Jar,6,19.71,Delivered, card ,Tanta
+ORD-2025-0140,"Sep 22, 2025",28/09/2025,Amr Nasser,amr.nasser@outlook.com,Kitchen,Glass Storage Jar, 1 ,11.21,Delivered,PayPal,Minya
+ORD-2025-0141,14-Apr-2025,24/04/2025,Nadia Aziz,nadia.aziz@yahoo.com,Cleaning,Microfiber Cloth Pack,2,13.76,Delivered, card ,Zagazig
+ORD-2025-0142,04/04/2025,,Mariam Mostafa,,Office,Ergonomic Mouse Pad,1,25.66,Delivered,PayPal,Tanta
+ORD-2025-0143,19/05/2025,"May 21, 2025",Walid Nasser,walid.nasser@gmail.com,Storage,Drawer Divider Kit,1,17.43,Delivered,cash on delivery,Alexandria
+ORD-2025-0144,2025-07-14,22/07/2025,Fares El-Sayed,fares.elsayed@proton.me,Home Decor,Throw Pillow Cover,4,14.57,shipped,Wire,Port Said
+ORD-2025-0145,2025-05-06,16-May-2025,Salma Fathy,salma.fathy@yahoo.com,Home Decor,Wall Frame Set,2,51.43,Delivered,credit card,Port Said
+ORD-2025-0146,11/09/2025,,Hana Aziz,hana.aziz@yahoo.com,Home Decor,Wall Frame Set,2,24.5,Delivered,CC,Damietta
+ORD-2025-0147,15-Nov-2025,11/18/2025,Reem Shawky,reem.shawky@proton.me,Office,Ergonomic Mouse Pad,4,21.89,Delivered,CREDIT CARD,Assiut
+ORD-2025-0148,"Apr 22, 2025",,Amina Kamal,amina.kamal@gmail.com,Kitchen,Nonstick Pan, 5 ,31.73,Delivered,credit card,Port Said
+ORD-2025-0149,12/10/2025,10/21/2025,Walid Yassin,walid.yassin@yahoo.com,Home Decor,Decorative Vase,6, 43.61 ,Delivered,PayPal,Assiut
+ORD-2025-0150,08/13/2025,,Heba Aziz,,Storage,Plastic Storage Box,5,18.71,Processing,Credit Card,Ismailia
+ORD-2025-0151,15-Mar-2025,23/03/2025,Nour Darwish,nour.darwish@outlook.com,Office,Ergonomic Mouse Pad,4,12.13,Delivered, card ,Cairo
+ORD-2025-0152,13-May-2025,, Khaled Mansour ,khaled.mansour@outlook.com,Kitchen,Glass Storage Jar, 6 ,12.98,Processing,Credit Card,Port Said
+ORD-2025-0153,2025-03-03,,Khaled Aziz,khaled.aziz@outlook.com,Cleaning,Microfiber Cloth Pack,5,6.56,Delivered,Bank Transfer,Port Said
+ORD-2025-0154,2025-08-17,21-Aug-2025,Nada Nasser,nada.nasser@yahoo.com,Home Decor,Wall Frame Set,3,87.4,Processing,PayPal,Suez
+ORD-2025-0155,2025-11-18,,Ali El-Sayed,ali.elsayed@gmail.com,Office,Ergonomic Mouse Pad,6,9.39, Processing ,BANK TRANSFER, Aswan 
+ORD-2025-0156,28/04/2025,2025-04-30,Walid Aziz,walid.aziz@yahoo.com,Cleaning,Trash Bin Liner Roll,2,18.15,Shipped,Credit Card, Luxor 
+ORD-2025-0157,12/04/2025,16/04/2025, Hassan Shawky ,hassan.shawky@proton.me,OFFICE,Desk Organizer, 6 ,26.74,Delivered,Bank Transfer,Beni Suef
+ORD-2025-0158,20-Oct-2025,27/10/2025,Tariq Gamal,tariq.gamal@outlook.com,Office,Ergonomic Mouse Pad,4,17.84,Delivered,PayPal,Ismailia
+ORD-2025-0159,04/05/2025,2025-05-09,Lina Hassan,lina.hassan@outlook.com,Cleaning,Spray Mop,2,$68.26,Delivered,PayPal,Beni Suef
+ORD-2025-0160,2025-11-25,,Hana Gamal,hana.gamal@gmail.com,office,Ergonomic Mouse Pad,1,15.02, Processing ,Cash on Delivery,Assiut
+ORD-2025-0161,19-Oct-2025,10/28/2025,Youssef Aziz,youssef.aziz@outlook.com,Storage,Drawer Divider Kit,3,21.21,Shipped,CREDIT CARD,Zagazig
+ORD-2025-0162,2025-02-17,02/18/2025,Ali Hassan,ali.hassan@outlook.com,Storage,Drawer Divider Kit,3,8.23, Delivered ,CC,Beni Suef
+ORD-2025-0163,12/06/2025,06/10/2025,Omar Said,omar.said@proton.me,Office,Notebook Pack,1,11.56,Cancelled,PayPal,
+ORD-2025-0164,2025-07-01,07-Jul-2025,Mariam Shawky,mariam.shawky@gmail.com,Home Decor,Decorative Vase, 5 ,27.41,Shipped,Cash on Delivery,Cairo
+ORD-2025-0165,2025-08-22,08/26/2025,Hana Nasser,hana.nasser@yahoo.com,Cleaning,Spray Mop,2,76.34,Delivered,Cash on Delivery,Tanta
+ORD-2025-0166,"Mar 23, 2025",,Hana Gamal,hana.gamal@yahoo.com,Home Decor,LED Table Lamp,5,85.53,processing,Credit Card,Assiut
+ORD-2025-0167,2025-02-07,15/02/2025,Khaled Gamal,khaled.gamal@outlook.com,Storage,Plastic Storage Box,4,32.08, Delivered ,Wire,Ismailia
+ORD-2025-0168,08/29/2025,03/09/2025,Rana Hassan,rana.hassan@yahoo.com,Home Decor,Throw Pillow Cover,2,21.59,Delivered,Credit Card,Minya
+ORD-2025-0169,2025-09-23,"Sep 26, 2025",Sara Fathy,sara.fathy@proton.me,Kitchen,Glass Storage Jar,1,23.37,Shipped,cash on delivery, Luxor 
+ORD-2025-0170,2025-09-14,"Sep 24, 2025",Ali Aziz,,Office,Desk Organizer, 5 ,28.0,delivered,CREDIT CARD,Mansoura
+ORD-2025-0171,18-Jul-2025,,Ali Yassin,ali.yassin@yahoo.com,OFFICE,Notebook Pack,1,11.56, Processing ,PayPal,Alexandria
+ORD-2025-0172,13-Nov-2025,,Youssef Aziz,youssef.aziz@outlook.com,Cleaning,Dish Brush Set,6,13.56,Delivered,COD, Beni Suef 
+ORD-2025-0173,2025-09-04,,Salma El-Sayed,salma.elsayed@proton.me,Office,Ergonomic Mouse Pad,6,18.13, Processing ,Cash Delivery,Damietta
+ORD-2025-0174,11/06/2025,2025-06-17,Nour Darwish,nour.darwish@gmail.com,Office,File Folder Set,1,14.46,Shipped,Credit Card,Mansoura
+ORD-2025-0175,20-Apr-2025,"Apr 28, 2025",Reem Kamal,reem.kamal@outlook.com,Cleaning,Dish Brush Set,5,$5.39,Shipped, PayPal ,Tanta
+ORD-2025-0176,2025-05-25,04/06/2025,Samir Fouad,samir.fouad@outlook.com,OFFICE,Ergonomic Mouse Pad,03,20.09,Delivered,CREDIT CARD,Tanta
+ORD-2025-0177,2025-08-31,"Sep 02, 2025",Fares Yassin,fares.yassin@gmail.com,Kitchen,Meal Prep Containers,6,35.44,Delivered,Credit Card,Suez
+ORD-2025-0178,20/06/2025,22-Jun-2025,Dina Yassin,dina.yassin@gmail.com,Storage,Drawer Divider Kit,4,12.06,Delivered,CC,Mansoura
+ORD-2025-0179,21-Jun-2025,2025-06-22,Ali Ibrahim,ali.ibrahim@proton.me,Office,Desk Organizer,5,37.1,Delivered,Bank Transfer,Minya
+ORD-2025-0180,05-Feb-2025,,Mona El-Sayed,mona.elsayed@yahoo.com,Office,Desk Organizer,3,13.29, Delivered ,PayPal,Tanta
+ORD-2025-0181,15/03/2025,"Mar 22, 2025",Amina Mahmoud,amina.mahmoud@proton.me,Kitchen,Nonstick Pan,04,102.91,Delivered,paypal, Suez 
+ORD-2025-0182,31-Aug-2025,09/09/2025,Lina Aziz,lina.aziz@yahoo.com,STORAGE,Closet Hanger Pack, 6 ,15.29,Delivered,Cash on Delivery,Minya
+ORD-2025-0183,10/25/2025,, Amr Adel ,amr.adel@outlook.com,Home Decor,LED Table Lamp,2,75.5,DELIVERED,Credit Card,Damietta
+ORD-2025-0184,06/05/2025,05/09/2025,Youssef Kamal,youssef.kamal@proton.me,Office,Desk Organizer,3,11.63,shipped,PayPal,Tanta
+ORD-2025-0185,2025-08-14,19-Aug-2025,Walid Fouad,walid.fouad@yahoo.com,Storage,Vacuum Storage Bag,1,15.62,Shipped,Bank Transfer,Assiut
+ORD-2025-0186,05-Nov-2025,09/11/2025,Mariam Said  ,mariam.said@gmail.com,Storage,Closet Hanger Pack,6,19.41,shipped,Cash on Delivery,Giza
+ORD-2025-0187,18/08/2025,22/08/2025,Salma Fouad,salma.fouad@outlook.com,Home Decor,Throw Pillow Cover,01,13.60,Delivered,Credit Card,Port Said
+ORD-2025-0188,2025-09-25,"Oct 03, 2025",Walid Mansour,walid.mansour@gmail.com,home decor,Decorative Vase,6,50.14, Shipped ,Credit Card,Port Said
+ORD-2025-0189,2025-06-07,09-Jun-2025,Nour Mostafa  ,nour.mostafa@outlook.com,storage,Closet Hanger Pack,6,12.13,shipped,PP, Mansoura 
+ORD-2025-0190,2025-10-28,2025-10-30,Nour Shawky,nour.shawky@outlook.com,Home Decor,Wall Frame Set,1,55.34,delivered,Credit Card,Luxor
+ORD-2025-0191,18/06/2025,,Reem Mansour,reem.mansour@outlook.com,kitchen,Meal Prep Containers,5,17.72,Processing,credit card,Giza
+ORD-2025-0192,2025-08-06,08/14/2025,Amina Ibrahim,,Home Decor,Decorative Vase,6,27.19,Shipped,paypal, Suez 
+ORD-2025-0193,16/09/2025,2025-09-17,Ali Mostafa,ali.mostafa@proton.me,Office,Notebook Pack,4,10.78,Delivered,Credit Card,Assiut
+ORD-2025-0194,2025-07-16,2025-07-20,Lina Fouad,lina.fouad@outlook.com,Office,Notebook Pack,2,10.11,Processing,Credit Card,Assiut
+ORD-2025-0195,27/10/2025,2025-10-31,Nadia Fouad,nadia.fouad@outlook.com,Storage,Vacuum Storage Bag,5,20.76,Returned,Credit Card, Mansoura 
+ORD-2025-0196,"Aug 24, 2025",26/08/2025,Hana Shawky,hana.shawky@gmail.com,Storage,Plastic Storage Box,4,33.7,Delivered,Credit Card,Alexandria
+ORD-2025-0197,15-Feb-2025,2025-02-21,Salma Fouad,salma.fouad@outlook.com,HOME DECOR,Decorative Vase,6,31.38,Shipped,CC,Cairo
+ORD-2025-0198,2025-05-26,01-Jun-2025,Amr Nasser,amr.nasser@proton.me,Cleaning,Spray Mop,1,51.62,Delivered,Credit Card,Aswan
+ORD-2025-0199,19/04/2025,20-Apr-2025, Nadia Adel ,nadia.adel@outlook.com,Home Decor,Decorative Vase,2,36.33,Delivered,credit card,Ismailia
+ORD-2025-0200,21/03/2025,23-Mar-2025,Nadia Adel,nadia.adel@gmail.com,Kitchen,Cutlery Set, 5 ,38.54,Cancelled,bank transfer,Alexandria
+ORD-2025-0201,31-Jul-2025,,Tariq Taha,tariq.taha@gmail.com,Office,Notebook Pack,3,8.97,Cancelled,PAYPAL,
+ORD-2025-0202,2025-11-17,, Walid Darwish ,,Home Decor,Wall Frame Set,1,65.61,PROCESSING, card ,
+ORD-2025-0203,21/08/2025,, Salma Yassin ,salma.yassin@yahoo.com,Storage,Closet Hanger Pack,4,16.38, Processing ,Wire,Ismailia
+ORD-2025-0204,04/10/2025,,Nadia Darwish,nadia.darwish@outlook.com,Office,File Folder Set,3,19.52,Processing,Credit Card,Tanta
+ORD-2025-0205,17-May-2025,2025-05-25,Nada Mahmoud,nada.mahmoud@proton.me,Home Decor,LED Table Lamp, 6 ,81.77, Shipped ,cash on delivery,Damietta
+ORD-2025-0206,23/05/2025,2025-05-29,Fares Ibrahim,fares.ibrahim@yahoo.com,KITCHEN,Glass Storage Jar, 3 ,24.47,Shipped,paypal,Cairo
+ORD-2025-0207,2025-09-07,07/07/2025,Hana Taha,hana.taha@gmail.com,CLEANING,Microfiber Cloth Pack,5,11.80,Delivered,Credit Card,Zagazig
+ORD-2025-0208,02-Sep-2025,,Hana Hassan  ,hana.hassan@gmail.com,Home Decor,Throw Pillow Cover, 1 ,29.56,Delivered,Credit Card,Luxor
+ORD-2025-0209,07-Oct-2025,10/09/2025,Lina El-Sayed,lina.elsayed@outlook.com,Kitchen,Glass Storage Jar,4,15.33,DELIVERED,Cash on Delivery, Assiut 
+ORD-2025-0210,2025-04-30,"May 05, 2025",Lina Mansour,lina.mansour@proton.me, Office ,File Folder Set,4,21.09,Delivered,Credit Card,Zagazig
+ORD-2025-0211,11/30/2025,,Lina Nasser,lina.nasser@yahoo.com, Cleaning ,Trash Bin Liner Roll, 4 , 23.79 ,CANCELLED,paypal,
+ORD-2025-0212,08/31/2025,"Sep 08, 2025",Fares Fathy,fares.fathy@proton.me, Kitchen ,Cutlery Set,5,55.53,Delivered,Credit Card,Port Said
+ORD-2025-0213,2025-10-19,,Mona Aziz,,Storage,Plastic Storage Box,4,24.37,Processing,Cash on Delivery,Ismailia
+ORD-2025-0214,2025-06-10,2025-06-13,Walid Nasser,walid.nasser@gmail.com,Office,Desk Organizer, 6 ,35.9,Delivered,Credit Card,Assiut
+ORD-2025-0215,"Oct 06, 2025",2025-10-11,Nadia Said,nadia.said@gmail.com,Cleaning,Dish Brush Set,2,11.49,Delivered,PP,Giza
+ORD-2025-0216,2025-10-27,04-Nov-2025,Walid Darwish  ,walid.darwish@outlook.com,Office,File Folder Set,5,19.79,Delivered,PayPal,Luxor
+ORD-2025-0217,"Jun 12, 2025","Jun 21, 2025",Khaled Nasser,khaled.nasser@outlook.com,OFFICE,Notebook Pack,2,9.03,Delivered,Credit Card,Alexandria
+ORD-2025-0218,16/09/2025,,Mariam Fathy,mariam.fathy@yahoo.com,Storage,Drawer Divider Kit,3,13.6,Processing,Bank Transfer,Assiut
+ORD-2025-0219,09/05/2025,2025-09-10,Walid Nasser,walid.nasser@yahoo.com,Storage,Vacuum Storage Bag,5,10.77,Shipped,Bank Transfer,Beni Suef
+ORD-2025-0220,17/08/2025,,Dina Mahmoud,dina.mahmoud@outlook.com,Storage,Closet Hanger Pack,1,17.52, delivered ,Cash on Delivery, Suez 
+ORD-2025-0221,14-Jun-2025,,Nour Taha,nour.taha@yahoo.com,Home Decor,Wall Frame Set,6,77.24,Delivered,Cash on Delivery,Damietta
+ORD-2025-0222,"Aug 29, 2025",2025-09-01,Amina El-Sayed,amina.elsayed@gmail.com,Cleaning,Spray Mop,3,31.4, Delivered ,Bank Transfer,Zagazig
+ORD-2025-0223,2025-05-19,05/27/2025,Amr Mostafa,amr.mostafa@yahoo.com,KITCHEN,Cutlery Set,4,25.57,Delivered, card ,Suez
+ORD-2025-0224,13-Mar-2025,2025-03-22,Amina Adel,amina.adel@yahoo.com,Office,Desk Organizer,3,15.1,Returned,CC,Suez
+ORD-2025-0225,2025-03-23,2025-03-31,Rana Fouad,rana.fouad@proton.me, Cleaning ,Dish Brush Set, 2 ,4.43,Delivered,Cash on Delivery,Tanta
+ORD-2025-0226,"Oct 30, 2025",31/10/2025,Amr Shawky,amr.shawky@outlook.com, Kitchen ,Nonstick Pan,2,77.05,Returned,Cash on Delivery,Giza
+ORD-2025-0227,2025-04-23,,Omar Taha,omar.taha@outlook.com,Home Decor,LED Table Lamp, 1 ,96.94,Processing, card ,Aswan
+ORD-2025-0228,2025-09-05,"Sep 15, 2025",Tariq Fathy,tariq.fathy@proton.me,Office,Notebook Pack,3,17.66,DELIVERED,Cash on Delivery,Ismailia
+ORD-2025-0229,"Sep 24, 2025","Oct 01, 2025",Mariam Shawky,mariam.shawky@gmail.com,Kitchen,Cutlery Set,5,72.83,Delivered,Credit Card,Zagazig
+ORD-2025-0230,2025-04-09,19-Apr-2025,Fares Adel,fares.adel@outlook.com,storage,Vacuum Storage Bag,5,10.39,Delivered,PP,Ismailia
+ORD-2025-0231,2025-02-18,02/26/2025,Amina Mostafa,amina.mostafa@outlook.com,Home Decor,Wall Frame Set,2,$87.68,Delivered,PayPal,Beni Suef
+ORD-2025-0232,03-May-2025,2025-05-12,Amr Darwish  ,amr.darwish@proton.me,Storage,Vacuum Storage Bag,3,22.17,Shipped,PayPal,Tanta
+ORD-2025-0233,2025-03-13,,Mona Fouad,mona.fouad@proton.me,Cleaning,Spray Mop,4,74.48,Processing,PayPal,Minya
+ORD-2025-0234,18/05/2025,05/21/2025,Nada Said,nada.said@yahoo.com,Home Decor,Throw Pillow Cover,1,30.17,Delivered,CREDIT CARD, Zagazig 
+ORD-2025-0235,10/19/2025,10/21/2025,Lina Fathy,lina.fathy@gmail.com,Storage,Vacuum Storage Bag,3,13.45,Delivered,PayPal,Tanta
+ORD-2025-0236,07/08/2025,07/12/2025,Reem Said,reem.said@proton.me, Kitchen ,Meal Prep Containers,5,25.92,Shipped,Credit Card,Mansoura
+ORD-2025-0237,01/23/2025,26/01/2025,Reem Fouad,reem.fouad@proton.me,Home Decor,Decorative Vase,6,59.1,Shipped,CC,Port Said
+ORD-2025-0238,"Jun 08, 2025",17-Jun-2025,Heba Yassin,heba.yassin@outlook.com,Cleaning,Trash Bin Liner Roll,02,15.85,DELIVERED,PayPal, Aswan 
+ORD-2025-0239,2025-08-22,"Aug 23, 2025",Nour Shawky  ,nour.shawky@gmail.com,Office,Ergonomic Mouse Pad,6,29.76,Delivered,Bank Transfer,Assiut
+ORD-2025-0240,2025-08-10,,Lina Kamal,lina.kamal@gmail.com,Office,File Folder Set,3,17.15,Processing, card ,Ismailia
+ORD-2025-0241,06-Mar-2025,2025-03-13,Heba Mostafa  ,heba.mostafa@yahoo.com,CLEANING,Microfiber Cloth Pack,5,8.76,SHIPPED,Credit Card,Aswan
+ORD-2025-0242,2025-10-21,"Oct 27, 2025",Lina Darwish,lina.darwish@yahoo.com,Storage,Plastic Storage Box,5,12.45,Delivered,Credit Card,Alexandria
+ORD-2025-0243,2025-11-30,04/12/2025,Nadia El-Sayed,nadia.elsayed@gmail.com,Office,Desk Organizer,05,25.65,Delivered,Credit Card,Port Said
+ORD-2025-0244,10/02/2025,2025-10-07,Nada El-Sayed,,Cleaning,Microfiber Cloth Pack,2,8.71, Delivered ,BANK TRANSFER,Alexandria
+ORD-2025-0245,04/03/2025,"Mar 10, 2025",Hassan Nasser,hassan.nasser@proton.me,Home Decor,Decorative Vase,1,33.34,Delivered,Credit Card,Mansoura
+ORD-2025-0246,2025-11-18,,Samir Gamal,samir.gamal@proton.me,Kitchen,Nonstick Pan,3,99.73,Delivered,Cash Delivery,Damietta
+ORD-2025-0247,11/26/2025,04-Dec-2025,Hana Mostafa,hana.mostafa@yahoo.com,Cleaning,Dish Brush Set,03,6.53,Delivered,Credit Card,Assiut
+ORD-2025-0248,12/15/2025,22/12/2025,Nour Mahmoud,nour.mahmoud@proton.me,Storage,Plastic Storage Box,6,34.58,Delivered,Credit Card,Giza
+ORD-2025-0249,2025-03-02,, Heba Mostafa ,heba.mostafa@proton.me,Office,File Folder Set,5,9.91,Processing,paypal,Beni Suef
+ORD-2025-0250,08/14/2025,,Amina Gamal,amina.gamal@yahoo.com,Office,File Folder Set,5,14.0,processing,Credit Card, Zagazig 
+ORD-2025-0251,2025-08-14,,Nadia Fouad,nadia.fouad@proton.me,kitchen,Nonstick Pan,3,130.06,Processing,Cash on Delivery, Mansoura 
+ORD-2025-0252,2025-02-07,,Youssef Hassan,youssef.hassan@proton.me,Office,Desk Organizer,4,12.87,Delivered,Bank Transfer,Port Said
+ORD-2025-0253,2025-11-27,"Dec 03, 2025",Fares Mahmoud,fares.mahmoud@outlook.com,home decor,Decorative Vase,2,25.94, Delivered ,PayPal,Port Said
+ORD-2025-0254,06/28/2025,"Jul 06, 2025",Hana Yassin,hana.yassin@gmail.com,Kitchen,Glass Storage Jar,05,$19.32,Delivered,Credit Card,Zagazig
+ORD-2025-0255,10/01/2025,11/01/2025,Amr Mansour,amr.mansour@yahoo.com,Storage,Closet Hanger Pack,2,14.84,Delivered,credit card,Luxor
+ORD-2025-0256,01-Oct-2025,"Oct 11, 2025",Reem Mostafa,reem.mostafa@outlook.com,Storage,Plastic Storage Box,1,12.08,Returned,CREDIT CARD, Luxor 
+ORD-2025-0257,03/31/2025,09-Apr-2025,Rana Aziz,rana.aziz@gmail.com,Office,Notebook Pack,3,19.54,Delivered, PayPal ,Aswan
+ORD-2025-0258,2025-05-02,10/05/2025,Samir Mahmoud,samir.mahmoud@yahoo.com,Office,Ergonomic Mouse Pad,4,17.93,Shipped,credit card, Ismailia 
+ORD-2025-0259,05/25/2025,06/04/2025,Omar Darwish,omar.darwish@yahoo.com,HOME DECOR,LED Table Lamp,6,78.88,DELIVERED, bank transfer ,Tanta
+ORD-2025-0260,08/06/2025,,Amr Taha,amr.taha@proton.me,CLEANING,Trash Bin Liner Roll,2,12.19, Delivered ,Credit Card,Beni Suef
+ORD-2025-0261,01/03/2025,09-Mar-2025,Salma Mostafa,salma.mostafa@proton.me,Cleaning,Trash Bin Liner Roll,5,10.02,Delivered, card ,Damietta
+ORD-2025-0262,20/04/2025,24-Apr-2025,Nadia Fathy,nadia.fathy@proton.me,Storage,Vacuum Storage Bag,04,13.49,Delivered,PayPal,Assiut
+ORD-2025-0263,07/24/2025,"Jul 27, 2025",Amr Mahmoud,amr.mahmoud@yahoo.com,Storage,Plastic Storage Box,5,28.06,Shipped,Bank Transfer,Suez
+ORD-2025-0264,2025-05-14,,Sara Fathy,sara.fathy@outlook.com,Home Decor,LED Table Lamp, 6 ,97.48,Delivered,CREDIT CARD,Ismailia
+ORD-2025-0265,"Feb 25, 2025",02/23/2025,Nada Adel,, Storage ,Drawer Divider Kit,6,20.98,Delivered,CC,Minya
+ORD-2025-0266,01/19/2025,01/25/2025,Hassan Nasser,,home decor,Throw Pillow Cover,1,15.51,Returned,Credit Card,Luxor
+ORD-2025-0267,03-Dec-2025,2025-12-04,Amina Mansour,amina.mansour@yahoo.com,Storage,Closet Hanger Pack,4,10.22,Shipped,Bank Transfer,Assiut
+ORD-2025-0268,2025-11-12,,Nadia Fouad,nadia.fouad@gmail.com,Kitchen,Cutlery Set,6,35.11,Cancelled,Credit Card,
+ORD-2025-0269,2025-08-05,2025-08-10,Youssef Adel,,Storage,Closet Hanger Pack,6,$10.64,Shipped,bank transfer,Mansoura
+ORD-2025-0270,05/05/2025,"May 12, 2025",Youssef Mahmoud,youssef.mahmoud@outlook.com,KITCHEN,Nonstick Pan, 2 ,78.0,Delivered, cod ,Assiut
+ORD-2025-0271,"Oct 15, 2025","Oct 20, 2025",Salma Gamal,salma.gamal@outlook.com,Storage,Plastic Storage Box, 4 ,16.36,shipped,bank transfer,Aswan
+ORD-2025-0272,10/21/2025,28-Oct-2025,Nour Mahmoud  ,nour.mahmoud@proton.me,Storage,Closet Hanger Pack,3,13.13,Delivered, card ,Suez
+ORD-2025-0273,27-Jul-2025,29/07/2025, Fares Ibrahim ,fares.ibrahim@proton.me,OFFICE,Notebook Pack,4,9.15,Shipped,PayPal,Ismailia
+ORD-2025-0274,2025-09-30,"Oct 05, 2025",Amina Ibrahim  ,amina.ibrahim@proton.me,Storage,Closet Hanger Pack,6,7.88,Delivered,Bank Transfer,Suez
+ORD-2025-0275,09-Jan-2025,10/01/2025,Khaled Mahmoud,khaled.mahmoud@gmail.com,Storage,Plastic Storage Box,2,22.58,Delivered, cod , Cairo 
+ORD-2025-0276,2025-01-18,27-Jan-2025,Lina El-Sayed,lina.elsayed@outlook.com,Office,Ergonomic Mouse Pad, 2 ,16.11,Shipped,PayPal,Assiut
+ORD-2025-0277,12/08/2025,,Salma Mahmoud,salma.mahmoud@proton.me,Kitchen,Meal Prep Containers,3,32.04,Processing,Credit Card,Beni Suef
+ORD-2025-0278,27/04/2025,2025-05-05,Heba El-Sayed,heba.elsayed@yahoo.com,HOME DECOR,Throw Pillow Cover,5,25.84,Shipped,Cash on Delivery,Suez
+ORD-2025-0279,"Mar 05, 2025",08-Mar-2025, Dina Mahmoud ,dina.mahmoud@outlook.com,Office,Desk Organizer,1, 19.32 ,Delivered,COD,Assiut
+ORD-2025-0280,11/07/2025,2025-11-16,Walid Taha,walid.taha@gmail.com,KITCHEN,Meal Prep Containers,5,27.78,Delivered,Credit Card,Damietta
+ORD-2025-0281,24/07/2025,29-Jul-2025,Samir Mansour,samir.mansour@proton.me,Kitchen,Glass Storage Jar,5,15.88,Delivered,COD,Alexandria
+ORD-2025-0282,2025-02-02,02/10/2025,Walid Kamal,walid.kamal@outlook.com,Cleaning,Microfiber Cloth Pack,5,13.45, Delivered , card ,Assiut
+ORD-2025-0283,16/01/2025,"Jan 26, 2025",Tariq El-Sayed,tariq.elsayed@outlook.com, Office ,File Folder Set, 6 ,8.42,Shipped,bank transfer, Assiut 
+ORD-2025-0284,21-Apr-2025,04/23/2025,Sara Shawky,sara.shawky@gmail.com,Cleaning,Trash Bin Liner Roll, 6 ,10.06,Returned,credit card,Aswan
+ORD-2025-0285,17/03/2025,,Dina Hassan,dina.hassan@proton.me,Home Decor,Wall Frame Set,5,60.37,Delivered,credit card,Mansoura
+ORD-2025-0286,06-Oct-2025,10/11/2025,Ali Mahmoud,ali.mahmoud@outlook.com,kitchen,Meal Prep Containers,6,39.08, Delivered ,Credit Card,Assiut
+ORD-2025-0287,04/04/2025,09/04/2025,Lina Mansour,lina.mansour@gmail.com,Office,Desk Organizer,5,20.47,Delivered,PayPal,Assiut
+ORD-2025-0288,01-Feb-2025,,Walid Shawky,walid.shawky@yahoo.com,OFFICE,Desk Organizer,2,30.35,Cancelled, PayPal , Suez 
+ORD-2025-0289,10/01/2025,17/01/2025, Nadia Hassan ,nadia.hassan@proton.me,Kitchen,Glass Storage Jar,2,17.59,Returned,PayPal,Aswan
+ORD-2025-0290,09/08/2025,12-Aug-2025,Nadia Mahmoud,nadia.mahmoud@gmail.com,Kitchen,Nonstick Pan,06,56.22,Delivered,Credit Card,Aswan
+ORD-2025-0291,"Jul 05, 2025","Jul 03, 2025", Omar Yassin ,omar.yassin@yahoo.com,Cleaning,Trash Bin Liner Roll,2,8.44,Delivered,COD,Aswan
+ORD-2025-0292,2025-07-26,2025-08-01, Tariq Mostafa ,tariq.mostafa@outlook.com, Storage ,Plastic Storage Box,4,33.95,Delivered,Bank Transfer,Tanta
+ORD-2025-0293,06/11/2025,, Walid Nasser ,walid.nasser@proton.me,office,Desk Organizer,4,12.48,Processing,Credit Card,Ismailia
+ORD-2025-0294,11/08/2025,2025-08-15,Lina Kamal,lina.kamal@outlook.com,Kitchen,Nonstick Pan,5,63.31, Delivered ,PayPal,Minya
+ORD-2025-0295,2025-09-13,09/10/2025,Dina Aziz,dina.aziz@yahoo.com,Office,Notebook Pack,3,12.85,Delivered,PAYPAL,Port Said
+ORD-2025-0296,08/06/2025,,Heba Taha,heba.taha@yahoo.com,Kitchen,Nonstick Pan,1, 40.98 ,Delivered,Cash on Delivery,Ismailia
+ORD-2025-0297,30/03/2025,"Apr 08, 2025",Heba Mostafa,heba.mostafa@gmail.com,cleaning,Microfiber Cloth Pack,5,8.53,Delivered,Credit Card,Alexandria
+ORD-2025-0298,22/04/2025,23-Apr-2025,Khaled Kamal,khaled.kamal@outlook.com,Home Decor,Wall Frame Set,03,26.24,delivered,Credit Card,Beni Suef
+ORD-2025-0299,2025-08-19,08/24/2025,Amr Mansour,amr.mansour@outlook.com,Cleaning,Microfiber Cloth Pack,4,7.02,Delivered,Credit Card,Mansoura
+ORD-2025-0300,2025-02-25,2025-02-28, Sara Kamal ,sara.kamal@proton.me,Storage,Drawer Divider Kit,4,14.53,Shipped,paypal,Giza
+ORD-2025-0301,"Jun 23, 2025",2025-06-27,Youssef Aziz,youssef.aziz@yahoo.com,HOME DECOR,Wall Frame Set, 5 ,29.23, Delivered ,Credit Card,Damietta
+ORD-2025-0302,13-Feb-2025,15-Feb-2025, Lina Nasser ,lina.nasser@yahoo.com, Storage ,Drawer Divider Kit,1,23.22,Shipped,PayPal,Assiut
+ORD-2025-0303,08/02/2025,15-Feb-2025,Youssef Kamal,youssef.kamal@proton.me,Home Decor,Decorative Vase,2,23.18,Delivered,PayPal,Ismailia
+ORD-2025-0304,02/18/2025,02/19/2025,Mona Gamal,mona.gamal@outlook.com,Storage,Plastic Storage Box,5,21.32,DELIVERED,Credit Card,Alexandria
+ORD-2025-0305,2025-12-10,18/12/2025,Amr El-Sayed,amr.elsayed@gmail.com,Kitchen,Meal Prep Containers,1,16.85, Shipped ,credit card,Alexandria
+ORD-2025-0306,2025-10-15,20/10/2025, Rana Ibrahim ,rana.ibrahim@proton.me,Cleaning,Spray Mop,06,36.32,Shipped,cash on delivery,Luxor
+ORD-2025-0307,2025-02-27,,Nadia Hassan,nadia.hassan@gmail.com,Storage,Vacuum Storage Bag,05,12.34,Delivered,Credit Card,Mansoura
+ORD-2025-0308,03/12/2025,14-Mar-2025,Dina Mansour,,Home Decor,LED Table Lamp, 6 ,75.32, Shipped ,PayPal,Aswan
+ORD-2025-0309,25-Jan-2025,,Ali Kamal,ali.kamal@proton.me,kitchen,Cutlery Set,2,84.81,Processing,Cash on Delivery, Assiut 
+ORD-2025-0310,17/05/2025,"May 22, 2025", Tariq Mahmoud ,tariq.mahmoud@proton.me,Cleaning,Dish Brush Set,2,15.28,Returned,CC,Assiut
+ORD-2025-0311,06/02/2025,"Jun 12, 2025",Amr Nasser,amr.nasser@gmail.com,Home Decor,Decorative Vase, 4 ,45.11,Delivered,Cash on Delivery,Zagazig
+ORD-2025-0312,02-Sep-2025,06-Sep-2025, Hassan Aziz ,hassan.aziz@outlook.com,Cleaning,Trash Bin Liner Roll,4,8.06,Delivered,PayPal,Port Said
+ORD-2025-0313,2025-06-06,"Jun 12, 2025", Nadia Hassan ,nadia.hassan@yahoo.com,Kitchen,Cutlery Set,2,82.76,Delivered,CC,Ismailia
+ORD-2025-0314,25-Nov-2025,,Lina Gamal,lina.gamal@outlook.com,Storage,Closet Hanger Pack,2,$11.88,Delivered,credit card,Aswan
+ORD-2025-0315,2025-03-04,,Hana Yassin,hana.yassin@yahoo.com,Storage,Vacuum Storage Bag,5,23.09,Cancelled,Bank Transfer,
+ORD-2025-0316,23-Apr-2025,01/05/2025,Nour Taha,nour.taha@proton.me,Storage,Plastic Storage Box,4,33.71,Delivered,Credit Card,
+ORD-2025-0013,05/03/2025,,Nour Shawky,nour.shawky@gmail.com,Office,Ergonomic Mouse Pad,3,8.84,Processing,Credit Card,Assiut
+ORD-2025-0088,2025-01-13,, Reem Hassan ,reem.hassan@proton.me,Kitchen,Meal Prep Containers,4,18.68,Delivered,Credit Card,Beni Suef
+ORD-2025-0191,18/06/2025,,Reem Mansour,reem.mansour@outlook.com,kitchen,Meal Prep Containers,5,17.72,Processing,credit card,Giza
+ORD-2025-0256,01-Oct-2025,"Oct 11, 2025",Reem Mostafa,reem.mostafa@outlook.com,Storage,Plastic Storage Box,1,12.08,Returned,CREDIT CARD, Luxor 
